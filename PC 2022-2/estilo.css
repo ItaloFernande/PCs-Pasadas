@@ -1,4 +1,9 @@
 button{
-    width: 440px;
+    width: 435px;
     height: 100px;
+    background-color: rgb(199, 230, 255);
+    border: 1px solid rgb(112, 190, 253);
+    margin-bottom: 5px;
+    font-size: 32px;
+    border-radius: 10px;
 }
