@@ -35,7 +35,7 @@ function verificarGanador1(jugadas) {
         if (ganador) {
             setTimeout(function(){
 
-                alert("Jugador O ganó");
+                alert("Jugador Y ganó");
             }, 700)
             setTimeout(function(){
 
